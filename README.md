@@ -41,7 +41,7 @@ In the middle there is field containing current state of money and below it anot
 <h3> The player’s goal is build stable structure taht will hold out weight of the vehicle that will have to drive over it. Afert starting simulation, user takes control of the vehicle and can personally check strength of the construction and reach the destination. When user reaches the destination, a summary window will be displayed: How much did it cost to build, how much money was left, construction time and how much special currency was earned. </h3>
 
 <p align="center">
- <img width="80%" height="auto" src="Img/Finish.png">
+ <img width="50%" height="auto" src="Img/Finish.png">
 </p>
 
 <h3> This is a prototype game that is not finished yet. It still needs a lot of work to improve it and eliminate bugs that are there. </h3>
